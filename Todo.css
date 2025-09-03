@@ -1,0 +1,72 @@
+.todo-bgcontainer{
+    background-color: #ffffff;
+    height:100vh;
+}
+.main-head{
+    text-align:center;
+    font-family: Roboto;
+    font-weight:bold;
+    margin-top:10px;
+    padding-top:10px;
+    padding-bottom: 20px;
+    font-size: 45px;
+}
+.create-head{
+    font-size: 32px;
+    font-family: Roboto;
+
+}
+.input-element{
+    border-radius: 10px;
+    border-color: black;
+    border-radius: 10px;
+    width: 100%;
+    padding:10px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.add-button{
+    color:#ffffff;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    width:10%;
+}
+.list-container{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+.label-container{
+    padding:10px;
+    padding-left:15px;
+    margin-left:10px;
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+    
+}
+.checkbox-label{
+    width:82%;
+}
+.delete-icon-container{
+    text-align: right;
+    width: 18%;
+}
+.delete-icon{
+    padding:5px;
+    font-size: 32px;
+    text-align: right;
+}
+.checked{
+    text-decoration: line-through;
+}
+.todo-item-container{
+    margin-top:15px;
+}
